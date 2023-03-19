@@ -11,7 +11,7 @@ function countDown(num) {
       }
       
       
-      const names = ['Alice', 'Bob', 'Charlie'];
+      const names = ['Ann', 'Joe', 'Rachel'];
       const thankYouMessages = writeCards(names);
       console.log(thankYouMessages);
     
